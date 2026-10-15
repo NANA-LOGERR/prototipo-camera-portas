@@ -1,7 +1,10 @@
 # [prototipo-personagem-coleta] 
 **Aluno:** João Victor Ribeiro de Lima Souza
+
 **Turma:** 2026.09.67
+
 **Feito com:** Unity 6 e C# 
+
 ## Sobre o projeto
 O jogador controla um personagem onde ele terá que escolher uma porta é ver se a certa para conseguir passar. 
 
